@@ -1,0 +1,16 @@
+C:\Users\pansc\source\repos\MegaDesk - Lilly\bin\Debug\MegaDesk - Lilly.exe.config
+C:\Users\pansc\source\repos\MegaDesk - Lilly\bin\Debug\MegaDesk - Lilly.exe
+C:\Users\pansc\source\repos\MegaDesk - Lilly\bin\Debug\MegaDesk - Lilly.pdb
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk - Lilly.csprojAssemblyReference.cache
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.Properties.Resources.resources
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk - Lilly.csproj.GenerateResource.cache
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk - Lilly.exe
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk - Lilly.pdb
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.AddQuote.resources
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.MainMenu.resources
+C:\Users\pansc\source\repos\MegaDesk - Lilly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pansc\source\repos\MegaDesk - Lilly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk - Lilly.csproj.CopyComplete
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.SearchQuotes.resources
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.ViewAllQuotes.resources
+C:\Users\pansc\source\repos\MegaDesk - Lilly\obj\Debug\MegaDesk___Lilly.DisplayQuote.resources
